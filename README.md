@@ -5,6 +5,6 @@ Attaching the project and their detials here so, if intrested fork it and use it
 > Happy Coding 
 
 
-| Number  | Project |
+| Name | Project |
 | ------------- | ------------- |
-| 1  | Read more about it [Click here](https://github.com/parjun585/Streamlit-Application-Project/blob/main/DNA%20Sequence%20Analyzer/readme.md)|
+| DNA Sequence Analyzer | Read more about it [Click here](https://github.com/parjun585/Streamlit-Application-Project/blob/main/DNA%20Sequence%20Analyzer/readme.md)|
