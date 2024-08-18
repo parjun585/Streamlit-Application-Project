@@ -1,5 +1,5 @@
 # Streamlit-Application-Project
-This repository hosts a Python-based web application for analyzing DNA sequences. Leveraging the power of Streamlit, it provides a user-friendly interface for common DNA sequence manipulations and calculations.
+This repository hosts a Python-based web application for different projects. 
 
 Attaching the project and their detials here so, if intrested fork it and use it. 
 
